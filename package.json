@@ -1,6 +1,6 @@
 {
-  "name": "node-webtokens",
-  "version": "1.0.0",
+  "name": "@tripss/node-webtokens",
+  "version": "1.1.0",
   "description": "Simple, opinionated implementation of JWS and JWE compact serialization",
   "main": "index.js",
   "repository" : {
